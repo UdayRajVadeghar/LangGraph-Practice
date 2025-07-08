@@ -34,7 +34,7 @@ graph.add_node("router" , lambda state:state)
 graph.add_edge(START , "router")
 
 graph.add_conditional_edges(
-    #src 
+    #source
     "router",
     router,
     {
