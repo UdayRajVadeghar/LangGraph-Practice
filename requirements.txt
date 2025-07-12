@@ -1,2 +1,4 @@
 langgraph
 Ipython
+langchain-google-genai
+python-dotenv
